@@ -1,3 +1,5 @@
+# inLanChat v2.1.1
+New Logo
 # inLanChat v1.12.03
 Fix bugs
 # inLanChat v1.10.12
